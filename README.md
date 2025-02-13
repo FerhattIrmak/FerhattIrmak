@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native, Firebase, REST API and Kotlin**
 
--  👨‍💻 All of my projects are available at [https://ferhat-dev.vercel.app/](https://ferhat-dev.vercel.app/)
+-  👨‍💻 My personal web page at [https://ferhat-dev.vercel.app/](https://ferhat-dev.vercel.app/)
 
 - 💬 Ask me about **React Native, Javascript**
 

@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [InternGo-Project](https://github.com/FerhattIrmak/InternGo-Project) and [RemiGOGo-Project](https://github.com/FerhattIrmak/RemiGo)
+- 🔭 I’m currently working on [InternGo-Project](https://github.com/FerhattIrmak/InternGo-Project) and [RemiGo-Project](https://github.com/FerhattIrmak/RemiGo)
 
 - 🌱 I’m currently learning **React Native, Firebase, REST API and Kotlin**
 

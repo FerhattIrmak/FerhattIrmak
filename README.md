@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [InternGo-Project](https://github.com/FerhattIrmak/InternGo-Project) 
 
-- 🌱 I’m currently learning **React Native, Firebase, REST API and Kotlin**
+- 🌱 I’m currently learning **React Native, Kotlin, Jetpack Compose, Firebase, REST API **
 
 -  👨‍💻 My personal web page at [https://ferhat-dev.vercel.app/](https://ferhat-dev.vercel.app/)
 

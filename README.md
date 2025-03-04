@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/4502b06a-fc21-499c-be47-7058f679aaf2)
 <h1 align="center">Hi 👋, I'm Ferhat a Computer Engineer 👨‍💻</h1>
-<h3 align="center">A passionate Mobile developer from Türkiye</h3>
+<h3 align="center">I am a passionate mobile developer from Turkey</h3>
 
 
 

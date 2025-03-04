@@ -10,7 +10,7 @@
 
 -  👨‍💻 My personal web page at [https://ferhat-dev.vercel.app/](https://ferhat-dev.vercel.app/)
 
-- 💬 Ask me about **React Native, Javascript**
+- 💬 Ask me about **Kotlin,React Native, Javascript**
 
 - 📫 How to reach me **ferhat-irmak@outlook.com**
 

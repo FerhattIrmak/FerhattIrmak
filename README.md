@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [MovieApp-Project](https://github.com/FerhattIrmak/MovieApp) and [JetpackComposeFlight-Project](https://github.com/FerhattIrmak/JetpackComposeFlight)
+- 🔭 I’m currently working on [ChildGame-Project](https://github.com/FerhattIrmak/ChildGame) and [JetpackComposeFlight-Project](https://github.com/FerhattIrmak/JetpackComposeFlight)
 
 - 🌱 I’m currently learning **React Native, Kotlin, Jetpack Compose, Firebase, REST API **
 
